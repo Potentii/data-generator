@@ -1,0 +1,16 @@
+{
+  "name": "demo-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --max-old-space-size=2046 --experimental-modules main.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "randomstring": "1.1.5",
+    "uuid": "8.1.0"
+  }
+}
