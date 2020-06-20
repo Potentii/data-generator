@@ -2,12 +2,11 @@
   "name": "demo-generator",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "start": "node --max-old-space-size=2046 --experimental-modules main.mjs"
   },
   "keywords": [],
-  "author": "",
+  "author": "Guilherme Reginaldo Ruella <potentii@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "randomstring": "1.1.5",
